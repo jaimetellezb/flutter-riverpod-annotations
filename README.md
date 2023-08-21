@@ -27,6 +27,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Riverpod
 
+## Curso tomado de [Devtalles](https://cursos.devtalles.com)
+
+
 [Doc riverpod](https://docs-v2.riverpod.dev/docs/getting_started)
 
 1. Instalar las dependencias recomendadas para su uso.
